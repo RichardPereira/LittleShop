@@ -1,0 +1,7 @@
+{
+    "env": {
+        "MONGO_ATLAS_PW": "nodeshop",
+        "DATABASE_NAME": "nodeshop",
+        "JWT_KEY": "DanceOfDragons"
+    }
+}
